@@ -10,8 +10,8 @@ I am a former Solutions Architect / Cloud Security Engineer and current passiona
 
 # 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=moonlinx&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlinx&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=okami-byte&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=okami-byte&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okami-byte/okami-byte/output/github-snake-dark.svg" />

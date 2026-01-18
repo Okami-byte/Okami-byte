@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there, I'm Devin, a Senior DevOps Engineer
+# 👋 Hey there, I'm Devin, Senior DevOps Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3AF7F2&width=435&lines=DevOps+Engineer;Building+Scalable+Solutions;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -37,7 +37,7 @@ devin = {
     architecture: ["Microservices", "REST APIs", "GraphQL", "Event-Driven"],
     currentFocus: "Building scalable highly available architectures",
     funfact: "I'm a double major in Finance and Technology"
-};
+}
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -47,7 +47,6 @@ devin = {
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-# 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
@@ -95,7 +94,7 @@ devin = {
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=Okami-byte&theme=default"
+    srcset="https://streak-stats.demolab.com?user=C-Elkins&theme=default"
     media="(prefers-color-scheme: light)"
   />
   <img src="https://streak-stats.demolab.com?user=Okami-byte&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak Stats" />
@@ -107,14 +106,14 @@ devin = {
   
 <picture>
   <source 
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Okami-byte&theme=github-compact"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Okami-byte&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Okami-byte&theme=default"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Okami-byte&theme=github-compact" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Okami-byte&theme=tokyonight" alt="Profile Summary" />
 </picture>
 
 </div>
